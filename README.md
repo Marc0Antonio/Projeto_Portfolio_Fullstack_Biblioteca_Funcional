@@ -30,3 +30,5 @@ Para executar o projeto, instalar as dependências do backend com o gerenciador 
 Objetivo
 
 O objetivo deste projeto é fornecer um sistema funcional, simples e eficiente para o gerenciamento de livros de uma biblioteca escolar, servindo como base de estudos ou aplicação prática em ambientes educacionais.
+
+OBS: tive alguns problemas de compatibilidade ao inserir banco de dados e extensão de arquivos ao passar pra plataforma Netlify. Logo o link final do projeto é do Github. Estou tentando contato com professores numa próxima oportunidade para ajustes.
